@@ -348,12 +348,12 @@ packages:
     source: hosted
     version: "2.1.0"
   path:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.8.2"
+    version: "1.8.1"
   path_provider:
     dependency: "direct main"
     description:
